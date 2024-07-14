@@ -1,5 +1,5 @@
 
-# AWS Terraform Example Redshift Database Module
+# Terraform AWS Redshift Database Module
 
 This Terraform module provisions an Amazon Redshift database, designed to allow for scalable storage and retrieval of data across cloud servers.
 
